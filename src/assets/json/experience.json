@@ -1,0 +1,17 @@
+[
+    {
+        "iconPath": "src/assets/images/icons/mtec-icon.png",
+        "title": "Mountainland Technical College",
+        "description": "at Mtec I had a ton of fun collaborating with other students on projects and took my casual web development to the next level."
+    },
+    {
+        "iconPath": "src/assets/images/icons/mastercontrol-icon-teal.webp",
+        "title": "MasterControl",
+        "description": "at Mastercontrol, I gained experience working with a web Development team, and experienced scrum/kanban workflow. also working on a corporate site in marketing. plus working with a wd team."
+    },
+    {
+        "iconPath": "src/assets/images/icons/mtec-icon.jpeg",
+        "title": "i need another one of these",
+        "description": "description of each thing."
+    }
+]

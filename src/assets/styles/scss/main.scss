@@ -1,0 +1,102 @@
+//here's your `sass --watch scss:css`
+
+
+//colors: add an import
+$dark-grey: #414141;
+
+$light-grey: #D9D9D9;
+
+
+//experience card styles
+
+.rounded-corners {
+    border-radius: 20px;
+}
+
+.icon-grid-parent {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.icon-margin {
+    margin: 20px;
+}
+
+.icon {
+    width: 150px;
+    height: 150px;
+}
+
+.component-margin {
+    margin-bottom: 30px;
+}
+
+.center-margin {
+    margin-left: 30px;
+    margin-right: 30px;
+    /*add @mobile none*/
+}
+.exp-card {
+    display: flex;
+    align-items: center;
+}
+
+.light-grey-card {
+    background-color: $light-grey;
+}
+
+.dark-grey-card {
+    background-color: $dark-grey;
+    color: white;
+}
+
+.title {
+    height: 25px;
+    font-weight: bold;
+}
+
+
+
+.test {
+    color: red !important;
+    background-color: red !important;
+}
+
+.h1 {
+    font-weight: bold;
+}
+
+// .navbar-h4 {
+//     font-weight: 
+// } 
+
+.indent-left {
+    margin-left: 20px;
+}
+
+.navbar-structure {
+
+    display:flex;
+    align-items:center;
+
+    width: 100%;
+    height: 80px;
+
+    //link styles
+
+    a {
+        color:white;
+        text-decoration: none;
+    }
+    
+    a:hover {
+        color: $light-grey;
+    }
+    
+    a:active {
+        color: $dark-grey;
+    }
+
+}
+
+// font weights:

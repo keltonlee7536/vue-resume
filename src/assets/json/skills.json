@@ -1,0 +1,27 @@
+[
+    {
+        "iconName":"vue",
+        "iconPath": "src/assets/images/icons/mtec-icon.png"
+    },
+    {
+        "iconName":"angular",
+        "iconPath": "src/assets/images/icons/angular-logo.webp"
+    },
+    {
+        "iconName":"javascript",
+        "iconPath": "src/assets/images/icons/javascript-logo.webp"
+    },
+    {
+        "iconName":"git",
+        "iconPath": "src/assets/images/icons/git-scm-logo.webp"
+    },
+    {
+        "iconName":"css",
+        "iconPath": "src/assets/images/icons/css-logo.webp"
+    },
+    {
+        "iconName":"react",
+        "iconPath": "src/assets/images/icons/react-logo-1.webp"
+    }
+    
+]
