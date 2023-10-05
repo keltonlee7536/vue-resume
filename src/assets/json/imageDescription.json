@@ -1,0 +1,12 @@
+[
+    {
+        "imageSrc": "src/assets/images/aerostar.webp",
+        "title": "maybe a question answer format?",
+        "description": "A hobby: fixing my chronicaly broken 1993 ford aerostar. that’s one of my hobbies. I do fixes myself. I’ve done electrical fixes, brakes, all sorts of stuff. Integer sagittis vehicula urna, sit amet luctus risus blandit ut. Integer aliquam erat est. Sed vel vehicula eros. Phasellus sagittis neque blandit, malesuada libero eget, varius dolor. rhoncus tincidunt."
+    },
+    {
+        "imageSrc": "src/assets/images/limitless-soundtrack.webp",
+        "title": "sum music",
+        "description": "Music: lost of soundtracks and such. mostly from movies and video games I’ve played/watched. Integer sagittis vehicula urna, sit amet luctus risus blandit ut. Integer aliquam erat est. Sed vel vehicula eros. Phasellus sagittis neque blandit, malesuada libero eget, varius dolor. Ut ut vestibulum sapien. Nunc eget dui in risus euismod feugiat id ac enim. Vivamus efficitur mollis urna, non vulputate libero pharetra eu. In rhoncus tincidunt lacus sit amet varius."
+    }
+]

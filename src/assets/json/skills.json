@@ -1,7 +1,7 @@
 [
     {
         "iconName":"vue",
-        "iconPath": "src/assets/images/icons/mtec-icon.png"
+        "iconPath": "src/assets/images/icons/vue-logo.png"
     },
     {
         "iconName":"angular",
@@ -17,7 +17,7 @@
     },
     {
         "iconName":"css",
-        "iconPath": "src/assets/images/icons/css-logo.webp"
+        "iconPath": "src/assets/images/icons/css-logo.png"
     },
     {
         "iconName":"react",

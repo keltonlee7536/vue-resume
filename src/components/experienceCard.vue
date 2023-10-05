@@ -22,13 +22,13 @@ export default {
             <img class="icon icon-margin rounded-corners dark-grey-card" :src="experience.iconPath"/>
         </div>
 
-        <div class="indent-left">
+        <div class="indent-center">
             <div class="title"><!--give it the icon margin, 20px all around-->
-                {{ experience.title }}
+                <h3>{{ experience.title }}</h3>
             </div>
 
             <div class="description">
-                {{ experience.description }}
+                <p>{{ experience.description }}</p>
             </div>
         </div>
             
