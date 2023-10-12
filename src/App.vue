@@ -5,7 +5,12 @@ import footerComponent from './components/footer.vue'
 </script>
 
 <template>
+    <head>
+        <link rel="stylesheet" type="text/css" href="../assets/styles/css/main.css">
+    </head>
  <navbar/>
+ <div class="body-container">
   <RouterView />
+ </div>
 <footerComponent />
 </template>

@@ -4,7 +4,7 @@ import imageDescription from "../components/imageDescription.vue"
 </script>
 
 <template>
-      <h1>This is about.vue</h1>
+      <h1>About</h1>
       <imageDescription/>
       <bio/>
 </template>

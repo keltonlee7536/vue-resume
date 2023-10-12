@@ -1,7 +1,8 @@
-<!-- <script setup>
-import TheWelcome from '../components/TheWelcome.vue'
-</script> -->
+<script setup>
+import projects from '../components/project.vue'
+</script>
 
 <template>
- <h1>This is projects.vue</h1>
+ <h1>Projects</h1>
+<projects/>
 </template>

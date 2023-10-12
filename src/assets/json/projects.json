@@ -1,0 +1,20 @@
+[
+    {
+        "imageSrc": "src/assets/images/vue-3-carousel-mc.png",
+        "title": "Vue 3 Carousel - MasterControl",
+        "description": "This project was one of the big projects I took on at MasterControl. This project started as a request to add a carousel with some speakers to the home page for an upcoming event. as such, i got an opportunity to simply build a feature that met the specifications with no restrictions. Since vue was already a partially adopted tool, I decided to go with Vue's carousel.",
+        "links": "www.mastercontrol.com/events"
+    },
+    {
+        "imageSrc": "src/assets/images/agenda-speaker-api-mc.png",
+        "title": "Speaker API Integration - MasterControl",
+        "description": "This was another addition I made to the events page at MasterControl. This feature displays dynamic cards with speaker information as it comes in from a constantly-updating API.",
+        "links": "www.mastercontrol.com/events/2023/agenda"
+    },
+    {
+        "imageSrc": "src/assets/images/ng-timesheet-mtec.png",
+        "title": "Angular Timesheet App - Mtec",
+        "description": "This project is a timesheet app built with angular. it tracks employee timecards across each week and displays this data dynamically grouped by individuals or departments.",
+        "links": "host this on github pages"
+    }
+]
