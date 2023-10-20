@@ -18,8 +18,11 @@ export default {
 
     <div class="component-margin center-margin exp-card light-grey-card rounded-corners" v-for="experience in experienceJson">
 
-        <div><!--had dark-grey-card class-->
-            <img class="icon icon-margin rounded-corners dark-grey-card" :src="experience.iconPath"/>
+        <div class="flex-center">
+            <div class="icon-card dark-grey-card rounded-corners">
+            <img class="icon icon-margin" :src="experience.iconPath"/>
+        </div>
+
         </div>
 
         <div class="indent-center">

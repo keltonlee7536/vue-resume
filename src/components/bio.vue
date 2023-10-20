@@ -3,6 +3,10 @@
 </script>
 
 <template>
+    <head>
+        <link rel="stylesheet" type="text/css" href="../assets/styles/css/main.css">
+    </head>
+
     <div class="bio-wrapper">
         <img class="bio-image" src="../assets/images/no-profile-image.webp">
 

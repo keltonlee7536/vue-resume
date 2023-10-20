@@ -16,19 +16,19 @@ export default {
     </head> -->
 
 
-    <div class="component-margin center-margin exp-card light-grey-card rounded-corners" v-for="items in imageDescriptionJson">
+    <div class="component-margin center-margin exp-card light-grey-card rounded-corners project-grid" v-for="items in imageDescriptionJson">
 
-        <div>
-            <img class="icon-margin" :src="items.imageSrc"/>
+        <div class="flex-center">
+            <img class="img-fluid" :src="items.imageSrc"/>
         </div>
 
         <div class="indent-center">
             <div class="title">
-                {{ items.title }}
+                <h3>{{ items.title }}</h3>
             </div>
 
             <div class="description">
-                {{ items.description }}
+                <p>{{ items.description }}</p>
             </div>
         </div>
             
