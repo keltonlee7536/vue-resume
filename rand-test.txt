@@ -1,0 +1,1 @@
+should add a proper gitignore, or remove .vscode and node_modules. not sure why theyre there?
