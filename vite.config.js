@@ -12,7 +12,7 @@ export default defineConfig({
   ],
   resolve: {
     alias: {
-      '@': fileURLToPath(new URL('./src', import.meta.url))
+      '@': fileURLToPath(new URL('./vue-resume', import.meta.url))//switched 11/2 from './src' to './vue-resume'
     }
   }
 })
