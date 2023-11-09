@@ -6,7 +6,7 @@
         "links": "www.mastercontrol.com/events"
     },
     {
-        "imageSrc": "src/assets/images/agenda-speaker-api-mc.png",
+        "imageSrc": "src/assets/images/agenda-speaker-api-mc.webp",
         "title": "Speaker API Integration - MasterControl",
         "description": "This was another addition I made to the events page at MasterControl. This feature displays dynamic cards with speaker information as it comes in from a constantly-updating API.",
         "links": "www.mastercontrol.com/events/2023/agenda"
