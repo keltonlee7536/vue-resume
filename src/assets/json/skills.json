@@ -1,27 +1,27 @@
 [
     {
         "iconName":"vue",
-        "iconPath": "src/assets/images/icons/vue-logo.png"
+        "iconPath": "../../public/vue-logo.png"
     },
     {
         "iconName":"angular",
-        "iconPath": "src/assets/images/icons/angular-logo.webp"
+        "iconPath": "../../public/angular-logo.webp"
     },
     {
         "iconName":"javascript",
-        "iconPath": "src/assets/images/icons/javascript-logo.webp"
+        "iconPath": "../../public/javascript-logo.webp"
     },
     {
         "iconName":"git",
-        "iconPath": "src/assets/images/icons/git-scm-logo.webp"
+        "iconPath": "../../public/git-scm-logo.webp"
     },
     {
         "iconName":"css",
-        "iconPath": "src/assets/images/icons/css-logo.png"
+        "iconPath": "../../public/css-logo.png"
     },
     {
         "iconName":"react",
-        "iconPath": "src/assets/images/icons/react-logo-1.webp"
+        "iconPath": "../../public/react-logo-1.webp"
     }
     
 ]
