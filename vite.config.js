@@ -11,8 +11,8 @@ export default defineConfig({
     vue(),
   ],
   resolve: {
-    alias: {// i think './vue-resume' should be empty.
-      '@': fileURLToPath(new URL('./vue-resume', import.meta.url))//switched 11/2 from './src' to './vue-resume'
+    alias: {
+      '@': fileURLToPath(new URL('./vue-resume', import.meta.url))
     }
   }
 })
