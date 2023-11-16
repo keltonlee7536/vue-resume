@@ -1,11 +1,11 @@
 [
     {
-        "imageSrc": "src/public/aerostar.webp",
+        "imageSrc": "/aerostar.webp",
         "title": "maybe a question answer format?",
         "description": "A hobby of mine: fixing my chronicaly broken 1993 ford aerostar. I do fixes myself. I’ve done electrical fixes, brakes, all sorts of stuff. it can be pretty messy, but nothing teaches patience quite like a 30 year old car that has no purpose in life except to break down. there's also something to be said about how working on a car can be therepudic, but if I'm being honest, I wouldn't mind if it went a month or two without breaking down."
     },
     {
-        "imageSrc": "src/public/album-covers.webp",
+        "imageSrc": "/album-covers.webp",
         "title": "sum music",
         "description": "Like many others my music taste is sporatic at best and diffucult to pin down. at the moment, I've been listening to alot of music from Movies and Video Games. in case you were wondering these incude the Bourne Trilogy, Limitless (2011), and American Beauty. From video games we have the soundtracks from Halo, Modern Warfare 2, Chaos Theory, and other Tom Clancy Games."
     }

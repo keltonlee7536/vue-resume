@@ -9,7 +9,8 @@
 
     <div class="bio-wrapper">
         <!-- <img class="bio-image" src="../assets/images/no-profile-image.webp"> -->
-        <img class="bio-image" src="../../public/no-profile-image.webp">
+        <img class="bio-image" src="/no-profile-image.webp">
+        <!-- <img src="/no-profile-image.webp"> -->
 
 
         <div class="indent-left">
