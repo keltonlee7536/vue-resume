@@ -14,9 +14,9 @@ export default defineConfig({
   //   assetsDir: 'assets',
   //   outdir: 'dist'
   // },
-  // resolve: {
-  //   alias: {
-  //     '@': fileURLToPath(new URL('./vue-resume', import.meta.url))
-  //   }
-  // }
+  resolve: {
+    alias: {
+      '@': fileURLToPath(new URL('./vue-resume', import.meta.url))
+    }
+  }
 })
