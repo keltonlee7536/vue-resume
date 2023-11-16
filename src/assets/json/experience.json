@@ -1,11 +1,11 @@
 [
     {
-        "iconPath": "/mtec-icon.png",
+        "iconPath": "./mtec-icon.png",
         "title": "Mountainland Technical College",
         "description": "at my Mtec web development certificate program, I gained comprehensive skills in creating dynamic and user-friendly websites. I learned HTML, CSS, Sass, and JavaScript to build the foundation for web development. Additionally, I delved into front-end frameworks like React and Angular. I also spent time learning backend tools like SQL for database management. My training included responsive design principles, and mobile development. I also gained hands-on experience in small team projects, debugging and version control, making me well-prepared for a career in web development."
     },
     {
-        "iconPath": "/mastercontrol-icon-teal.webp",
+        "iconPath": "./mastercontrol-icon-teal.webp",
         "title": "MasterControl",
         "description": "During my 10-week internship at a MasterControl company, I acquired invaluable experience in the software industry. I learned about the development and deployment of SaaS solutions, gaining insights into CMS tools, software architecture, and Agile development methodologies. I also honed my skills in collaborative teamwork, project management, and became a legendary bug-squasher. This experience provided me with a practical understanding of SaaS technologies and a solid foundation for my future career in the software industry."
     }
