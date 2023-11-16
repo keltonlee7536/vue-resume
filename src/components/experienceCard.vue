@@ -33,7 +33,12 @@ export default {
             <div class="description">
                 <p>{{ experience.description }}</p>
             </div>
-        </div>
+
+            <div class="links" v-if="experience.link">
+                <a href = "{{ experience.link }}" download = "{{ experience.downloadName }}">Letter of Reccomendation</a>
+                <!-- <a href = "experience.link" download = "experience.downloadName">Letter of Reccomendation</a> -->
+            </div>
+        </div>  
             
     </div>
 </template>
