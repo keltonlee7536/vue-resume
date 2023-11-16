@@ -26,7 +26,7 @@ export default {
         </div>
 
         <div class="indent-center">
-            <div class="title"><!--give it the icon margin, 20px all around-->
+            <div class="title">
                 <h3>{{ experience.title }}</h3>
             </div>
 
@@ -35,8 +35,7 @@ export default {
             </div>
 
             <div class="links" v-if="experience.link">
-                <a href = "{{ experience.link }}" download = "{{ experience.downloadName }}">Letter of Reccomendation</a>
-                <!-- <a href = "experience.link" download = "experience.downloadName">Letter of Reccomendation</a> -->
+                <a v-bind:href="experience.link" target="blank">{{ experience.downloadName }}</a>
             </div>
         </div>  
             
