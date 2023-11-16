@@ -64,6 +64,15 @@ $light-grey: #D9D9D9;
     height: 240px;
 }
 
+.footer-flex {
+    @media only screen and (max-width: 500px){
+  
+        display:flex;
+        align-items: center;
+        flex-direction: column;
+    }
+}
+
 //experience card styles
 
 .rounded-corners {
@@ -156,6 +165,7 @@ $light-grey: #D9D9D9;
 .indent-left {
     margin-left: 20px;
 }
+
 .indent-center {
     padding-left: 20px;
     padding-right: 20px;
@@ -183,7 +193,6 @@ $light-grey: #D9D9D9;
     a:active {
         color: $dark-grey;
     }
-
 }
 
 // font weights:
