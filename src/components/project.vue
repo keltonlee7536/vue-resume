@@ -23,7 +23,10 @@ export default {
       <div class="component-margin center-margin">
       <h3 class="title padding-top-bottom">{{ project.title }}</h3>
       <p class="padding-top-bottom">{{ project.description }}</p>
-      <!-- <a v-bind:href="''"> {{ project.links }} </a> -->
+
+      <div class="padding-top-bottom" v-if="project.url">
+                <a v-bind:href="project.url" target="blank">{{ project.name }}</a>
+            </div>
     </div>
 
     </div>

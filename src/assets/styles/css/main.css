@@ -23,6 +23,7 @@ p, a, li {
 @media only screen and (max-width: 500px) {
   .indent-left-variable {
     margin-left: none;
+    text-align: center;
   }
 }
 
