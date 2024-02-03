@@ -15,7 +15,16 @@
     },
     {
         "imageSrc": "./ng-timesheet-mtec.png",
-        "title": "Angular Timesheet App - Mtec",
-        "description": "This project is a timesheet app built with angular. it tracks employee timecards across each week and displays this data dynamically grouped by individuals or departments."
+        "title": "Chronos - Mtec",
+        "description": "This project is a timesheet app built with angular. it tracks employee timecards across each week and displays this data dynamically grouped by individuals or departments.",
+        "name": "https://keltonlee7536.github.io/Chronos/departments",
+        "url": "https://keltonlee7536.github.io/Chronos/departments"
+    },
+    {
+        "imageSrc": "./speed-n-power.webp",
+        "title": "speed-n-power, LLC",
+        "description": "This project is a buisness website made with vue 3. In making this website I got to experience development with a small buisness and using some interesting new features like integrating google forms into the webpage.",
+        "name": "https://keltonlee7536.github.io/speed-n-power/",
+        "url": "https://keltonlee7536.github.io/speed-n-power/"
     }
 ]
