@@ -1,5 +1,21 @@
 [
     {
+        "iconName":"git",
+        "iconPath": "./git-scm-logo.webp"
+    },
+    {
+        "iconName":"html",
+        "iconPath": "./html-5-icon2.png"
+    },
+    {
+        "iconName":"css",
+        "iconPath": "./css-logo.png"
+    },
+    {
+        "iconName":"javascript",
+        "iconPath": "./javascript-logo.webp"
+    },
+    {
         "iconName":"vue",
         "iconPath": "./vue-logo.png"
     },
@@ -8,20 +24,8 @@
         "iconPath": "./angular-logo.webp"
     },
     {
-        "iconName":"javascript",
-        "iconPath": "./javascript-logo.webp"
-    },
-    {
-        "iconName":"git",
-        "iconPath": "./git-scm-logo.webp"
-    },
-    {
-        "iconName":"css",
-        "iconPath": "./css-logo.png"
-    },
-    {
         "iconName":"react",
-        "iconPath": "./react-logo-1.webp"
+        "iconPath": "./react-logo.webp"
     }
     
 ]

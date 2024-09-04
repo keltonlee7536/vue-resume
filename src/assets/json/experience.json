@@ -1,8 +1,9 @@
 [
     {
-        "iconPath": "./mtec-icon.png",
-        "title": "Mountainland Technical College",
-        "description": "at my Mtec web development certificate program, I gained comprehensive skills in creating dynamic and user-friendly websites. I learned HTML, CSS, Sass, and JavaScript to build the foundation for web development. Additionally, I delved into front-end frameworks like React and Angular. I also spent time learning backend tools like SQL for database management. My training included responsive design principles, and mobile development. I also gained hands-on experience in small team projects, debugging and version control, making me well-prepared for a career in web development."
+        "iconPath": "./utah-valley-university-transparent.webp",
+        "title": "Utah Valley University",
+        "description": "I am currently enrolled at Utah Valley University, majoring in Web Development, where I am expanding my knowledge in web development and computer science. My coursework includes general education and introductory computer science classes. It has been a valuable experience, with C programming being the latest addition to my skill set. some of those projects can be found on my github",
+        "link" : "https://github.com/keltonlee7536/"
     },
     {
         "iconPath": "./mastercontrol-icon-teal.webp",
@@ -10,5 +11,10 @@
         "description": "During my 10-week internship at a MasterControl company, I acquired invaluable experience in the software industry. I learned about the development and deployment of SaaS solutions, gaining insights into CMS tools, software architecture, and Agile development methodologies. I also honed my skills in collaborative teamwork, project management, and became a legendary bug-squasher. This experience provided me with a practical understanding of SaaS technologies and a solid foundation for my future career in the software industry.",
         "downloadName" : "letter of reccommendation",
         "link" : "./kelton-lee-letter-of-reccommendation.pdf"
+    },
+    {
+        "iconPath": "./mtec-icon.png",
+        "title": "Mountainland Technical College",
+        "description": "at my Mtec web development certificate program, I gained comprehensive skills in creating dynamic and user-friendly websites. I learned HTML, CSS, Sass, and JavaScript to build the foundation for web development. Additionally, I delved into front-end frameworks like React and Angular. I also spent time learning backend tools like SQL for database management. My training included responsive design principles, and mobile development. I also gained hands-on experience in small team projects, debugging and version control, making me well-prepared for a career in web development."
     }
 ]
